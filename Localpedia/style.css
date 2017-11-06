@@ -1,0 +1,31 @@
+body {
+    font-family: QuickSand;
+    background: url(https://source.unsplash.com/rkRYbmPuhOE);
+    background-size: cover;
+    background-position: center;
+}
+
+
+.text-center {
+    padding-top: 8%;
+    text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+                 0px 8px 13px rgba(0,0,0,0.1),
+                 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.navbar-default {
+    background: transparent;
+    border-color: transparent;
+}
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+hr {
+    height: 12px;
+    width: 55%;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
